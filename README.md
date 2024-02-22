@@ -19,7 +19,8 @@
 
 # 📍 Donde encontrarme
 
-[Linkedin] (https://www.linkedin.com/in/jean-cordova-443b4674)
+![image](https://github.com/jannbcn/jannbcn/assets/50103950/fbbcecb2-d4cf-47b8-b549-2873856281a1) 
+ 
 
 <!--
 **jannbcn/jannbcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
