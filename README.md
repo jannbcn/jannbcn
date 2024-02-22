@@ -11,11 +11,15 @@
 
 # 💻 Conocimientos técnicos
 
--**Lenguajes de programación:** Java
--**Tecnologías web:** HTML, CSS
--**Bases de datos:** SQL
--**Herramientas:** Terminal BASH
--**Metodologías:** Desarrollo Ágil
+- 🔧 **Lenguajes de programación:** Java
+- 🔧 **Tecnologías web:** HTML, CSS
+- 🔧 **Bases de datos:** SQL
+- 🔧 **Herramientas:** Terminal BASH
+- 🔧 **Metodologías:** Desarrollo Ágil
+
+# 📍 Donde encontrarme
+
+[Linkedin] (https://www.linkedin.com/in/jean-cordova-443b4674)
 
 <!--
 **jannbcn/jannbcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
