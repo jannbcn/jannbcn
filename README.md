@@ -1,6 +1,7 @@
 ### 🤖 Jean Córdova
 
-[<img src="/">]
+![image](https://github.com/jannbcn/jannbcn/assets/50103950/60100712-b63d-4507-be8b-1e6c38ddb717)
+
 
 # Hola, bienvenido a mi perfil 👋
 
