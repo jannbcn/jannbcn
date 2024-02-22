@@ -29,7 +29,7 @@
 
 [Email] (janncordovall@gmail.com)
  
-<img src="https://giphy.com/gifs/producthunt-commandline-challenge-26gssNZ4EF6c8Simk">
+<img src="https://giphy.com/gifs/producthunt-commandline-challenge-26gssNZ4EF6c8Simk" alt="pie de perfil" width="200" style="width: 200px" align="center"/>
 <!--
 **jannbcn/jannbcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
