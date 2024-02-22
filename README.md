@@ -29,7 +29,7 @@
 
 [Email] (janncordovall@gmail.com)
  
-<img src="Commandline Challenge GIF by Product Hunt - Find & Share on GIPHY.html" />
+<img src="giphy.gif" />
 <!--
 **jannbcn/jannbcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
