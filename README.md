@@ -17,9 +17,17 @@
 - 🔧 **Herramientas:** Terminal BASH
 - 🔧 **Metodologías:** Desarrollo Ágil
 
-# 📍 Donde encontrarme
+# 📍 Donde encontrarme o contactarme
 
-![image src="https://github.com/jannbcn/jannbcn/assets/50103950/fbbcecb2-d4cf-47b8-b549-2873856281a1"](www.linkedin.com/in/jean-cordova-443b4674) 
+[Linkedin] (https://www.linkedin.com/in/jean-cordova-443b4674)
+
+[X] (https://twitter.com/JeanCordovaL)
+
+[Instagram] (https://www.instagram.com/janncordova/)
+
+[Facebook] (https://www.facebook.com/jann.cord)
+
+[Email] (janncordovall@gmail.com)
  
 
 <!--
