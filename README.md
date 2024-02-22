@@ -1,4 +1,15 @@
-### Hi there 👋
+### 🤖 Jean Córdova
+# Hola, bienvenido a mi perfil 👋
+
+¡Hola! Soy estudiante de DAM apasionado por la creación de software y el desarrollo web. Poseo habilidades en diferentes tecnologías y disfruto colaborando en proyectos innovadores.
+
+💻 Conocimientos técnicos
+
+-**Lenguajes de programación:** Java
+-**Tecnologías web:** HTML, CSS
+-**Bases de datos:** SQL
+-**Herramientas:** Terminal BASH
+-**Metodologías:** Desarrollo Ágil
 
 <!--
 **jannbcn/jannbcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
