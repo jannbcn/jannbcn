@@ -1,9 +1,14 @@
 ### 🤖 Jean Córdova
+
+[<img src="/">]
+
 # Hola, bienvenido a mi perfil 👋
 
 ¡Hola! Soy estudiante de DAM apasionado por la creación de software y el desarrollo web. Poseo habilidades en diferentes tecnologías y disfruto colaborando en proyectos innovadores.
 
-💻 Conocimientos técnicos
+> Soy una persona emprendedora que se apasiona por aprender más sobre programación, tecnologías y ciencias.
+
+# 💻 Conocimientos técnicos
 
 -**Lenguajes de programación:** Java
 -**Tecnologías web:** HTML, CSS
